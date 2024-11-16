@@ -57,7 +57,6 @@ header{
    display: flex;
    justify-content: center;
    gap: 4px;
-
    min-width: 100px;
    padding: 7px 17px;
    height: 35px;
@@ -71,12 +70,12 @@ header{
    line-height: 20.11px; 
    transition: all 0.3s;
    width: 42px;
+  }
 
-
-
-
-
+  a   {
+  text-decoration: none;
 }
+
 
 .login-button:hover {
 
